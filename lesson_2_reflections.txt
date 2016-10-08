@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 staging area is an intermediate between the commit and the working directory, it offers security
 How can you use the staging area to make sure you have one commit per logical change?
     You just introduce what is the logical change you should use.
+    What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+        When you need two different versions of the same app, and it would help keep your code more organized
