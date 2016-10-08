@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates a new instance of the directory, and you need to do it in order to make sure the repository was created
