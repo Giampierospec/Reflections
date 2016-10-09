@@ -72,3 +72,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 * daebb75 added bullets
 * fc72f92 Add README
 * 505f221 initial add
+
+How do the diagrams help you visualize the branch structure?
+
+It makes me read them graphically
