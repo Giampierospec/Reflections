@@ -76,3 +76,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 How do the diagrams help you visualize the branch structure?
 
 It makes me read them graphically
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It saves all the changes from both branches and it represents that way because is easier to understand
