@@ -80,3 +80,8 @@ It makes me read them graphically
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It saves all the changes from both branches and it represents that way because is easier to understand
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    merging manually allows you to have enough control between your structure.
+
+    
