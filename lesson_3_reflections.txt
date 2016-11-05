@@ -10,3 +10,5 @@ What is the benefit of having a copy of the last known state of the remote store
 	The benefit is having commits when you are on the go and don't have internet access.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	In case you are using slides googles offers a great form of live collaboration between users, but talking about code it would be a lot harder to collaborate without github
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want some experimental code you want to test before putting it in the main version
